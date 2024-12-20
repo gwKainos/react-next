@@ -1,0 +1,31 @@
+{
+  "name": "react-next",
+  "version": "1.0.0",
+  "description": "## 1-4. Library vs Framework React : 라이브러리 Next.js : 프레임워크",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwKainos/react-next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gwKainos/react-next/issues"
+  },
+  "homepage": "https://github.com/gwKainos/react-next#readme",
+  "dependencies": {
+    "next": "^15.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "19.0.2",
+    "typescript": "5.7.2"
+  }
+}
