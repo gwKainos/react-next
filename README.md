@@ -15,3 +15,6 @@ package.json 수정
 ```
 
 ## 2-1. Defining Routes 
+not-found.tsx : 모든 빈 페이지 정보
+
+## 2.2 Not Found Routes 
